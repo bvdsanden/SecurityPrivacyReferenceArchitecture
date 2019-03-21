@@ -57,7 +57,7 @@ making with regard to security and privacy design within all
 organizations.
 
 The following criteria can be used to determine the quality of a
-principles:
+principle:
 
 -  Understandable: Every stakeholder involved should be able to
    understand the meaning, purpose and implications of a principle.
