@@ -8,7 +8,7 @@ creating an architecture or overall design. As security and privacy will
 always be one of the most important subjects within IT the importance of
 good security and privacy will keep growing since companies will be even
 more depending on IT. Also the influence of IT will go deeper into our
-lives. Next to safety security and privacy will become more important
+lives. Next to safety, security and privacy will become more important
 when we realize the potential risks that come with new IT technologies.
 
 This reference architecture is created to improve security and privacy
@@ -128,7 +128,7 @@ that:
    (or euro) campaigns before security aspects were taken more seriously
    into account. And yet security is still difficult due the fact that
    doing it right gives no direct business value. Doing it wrong always
-   means a true disaster for your business. And he same goes for
+   means a true disaster for your business. And the same goes for
    privacy.
 -  Security and privacy are interrelated. Without security there is no
    privacy! Never.
